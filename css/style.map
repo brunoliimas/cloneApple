@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.scss"
+	],
+	"sourcesContent": [
+		"$white1: #fafafa;\r\n$blue: #1f97ff;\r\n$black1: #131313;\r\n$black3: #333333;\r\n$gray: #d6d6d6;\r\n\r\n* {\r\n   margin: 0;\r\n   padding: 0;\r\n   box-sizing: border-box;\r\n   font-family: \"Open Sans\", sans-serif;\r\n}\r\nbody {\r\n   width: 100%;\r\n   height: 100vh;\r\n\r\n   background-color: $white1;\r\n   \r\n}\r\na {\r\n   display: block;\r\n   text-decoration: none;\r\n}\r\n.header{\r\n   width: 100%;\r\n   height: 35px;\r\n\r\n   position: fixed;\r\n   top: 0;\r\n   z-index: 999;\r\n\r\n   background-color: rgba(17, 17, 17, 0.8);\r\n   backdrop-filter: blur(20px);\r\n}\r\n.header-container{\r\n   max-width: 820px;\r\n   margin: 0 auto;\r\n   padding: 5px 0px;\r\n}\r\n.nav-list-desktop{\r\n   list-style: none;\r\n\r\n   display: flex;\r\n   align-items: center;\r\n   justify-content: space-between;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": ";AAMA,AAAA,CAAC,CAAC;EACC,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;EACtB,WAAW,EAAE,uBAAuB,GACtC;;;AACD,AAAA,IAAI,CAAC;EACF,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;EAEb,gBAAgB,EAhBV,OAAO,GAkBf;;;AACD,AAAA,CAAC,CAAC;EACC,OAAO,EAAE,KAAK;EACd,eAAe,EAAE,IAAI,GACvB;;;AACD,AAAA,OAAO,CAAA;EACJ,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EAEZ,QAAQ,EAAE,KAAK;EACf,GAAG,EAAE,CAAC;EACN,OAAO,EAAE,GAAG;EAEZ,gBAAgB,EAAE,qBAAqB;EACvC,eAAe,EAAE,UAAU,GAC7B;;;AACD,AAAA,iBAAiB,CAAA;EACd,SAAS,EAAE,KAAK;EAChB,MAAM,EAAE,MAAM;EACd,OAAO,EAAE,OAAO,GAClB;;;AACD,AAAA,iBAAiB,CAAA;EACd,UAAU,EAAE,IAAI;EAEhB,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,aAAa,GAChC"
+}
