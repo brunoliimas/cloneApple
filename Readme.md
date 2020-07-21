@@ -1,10 +1,11 @@
 # cloneApple
 
-<h1>Site criado com HTML, CSS (SASS), Javascript (jquery).</h1>
-<p>seguindo os passos do vídeo do  <a href="https://www.youtube.com/channel/UCiHkIXtKHLHbyBs352UI6QQ">Násser Yousef Ali</a></p>
-
-</br>
-</br>
+<h3>Site criado com HTML, CSS (SASS), Javascript (jquery).</h3>
 </br>
 
-<img src="./assets/Imagem.png" style="width: 300px, heigth: auto" alt="Imagem-referencia">
+<p>Seguindo os passos do vídeo do  <a href="https://www.youtube.com/channel/UCiHkIXtKHLHbyBs352UI6QQ">Násser Yousef Ali</a></p>
+</br>
+
+<p>Abaixo, print de referência da página a ser clonada.</p>
+
+<img src="./assets/Imagem.png" style="width: 300px; height: auto;" alt="Imagem-referencia">
